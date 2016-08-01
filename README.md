@@ -1,0 +1,2 @@
+# Acadglid_corejava
+Acadglidassignments
